@@ -10,8 +10,18 @@
     "test": "jest"
   },
   "dependencies": {
+    "@animo-id/react-native-ble-didcomm": "^0.5.4",
+    "@credo-ts/askar": "^0.5.9",
+    "@credo-ts/core": "^0.5.9",
+    "@credo-ts/react-native": "^0.5.9",
+    "@credo-ts/transport-ble": "^0.3.0",
+    "@hyperledger/aries-askar-react-native": "^0.2.3",
+    "@react-native-community/cli": "^14.0.0",
+    "@react-native-community/cli-platform-android": "^14.0.0",
     "react": "18.2.0",
-    "react-native": "0.74.5"
+    "react-native": "0.74.5",
+    "react-native-fs": "^2.20.0",
+    "react-native-get-random-values": "^1.11.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
