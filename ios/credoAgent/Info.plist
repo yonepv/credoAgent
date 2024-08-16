@@ -48,5 +48,7 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
++   <key>NSBluetoothAlwaysUsageDescription</key>
++   <string>Allow $(PRODUCT_NAME) to use bluetooth for offline proof sharing</string>	
 </dict>
 </plist>
